@@ -11,6 +11,8 @@ My name is Jackson, and I'm a current computer science and French student at Laf
 - 📫 Contact: Please shoot me an email!
   - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
 
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksoneshbaugh&show_icons=true&theme=dracula)
+
 ### Salut !
 
 Je m'appelle Jackson, et je suis étudiant d'informatique et du français à Lafayette College. Maintenant, je pose les bases pour un future du recherchement de comment on peut utiliser les ordinateurs et le technologie pour ameliorer le monde. Ma passion est dans le domaine de la bio-informatique, où on peut apprendre plus de comment la biologie fonctionne en utilisant les ordinateurs, et on peut utilise les deux mieux ensemble. Quand je n'étude ni travail aux autres projets, tu peux me trouver avec mes amis ; en train de jouer le piano, le trombone, ou chanter du jazz ; ou en train de regarder Sienfeld.
@@ -24,6 +26,7 @@ Je m'appelle Jackson, et je suis étudiant d'informatique et du français à Laf
 - 📫 Contact : Veuillez m'envoyer un e-mail !
   - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
 
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksoneshbaugh&show_icons=true&theme=dracula&locale=fr)
 
 <!--
 **jacksoneshbaugh/jacksoneshbaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
