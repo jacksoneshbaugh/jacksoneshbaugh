@@ -4,10 +4,10 @@ My name is Jackson, and I'm a current computer science and French student at Laf
 
 - 🔭 I’m currently working on school, my [personal site](https://jacksoneshbaugh.github.io/), and relaxing
 - 🌱 I’m currently learning:
-  - Linear Algebra
-  - Computer Organization
-  - Analysis of Algorithms
-  - New Horizons: Youth & Identities in the Sub-Saharan and Caribbean Francophone Worlds
+  - Software Engineering
+  - Theory of Computation
+  - Principles of Programming Languages
+  - Intro to Machine Learning
 - 📫 Contact: Please shoot me an email!
   - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
 
@@ -19,10 +19,10 @@ Je m'appelle Jackson, et je suis étudiant d'informatique et du français à Laf
 
 - 🔭 Mon travail actuellement : école, mon [site personnel](https://jacksoneshbaugh.github.io/), et me reposer
 - 🌱 Je suis en train de apprendre : 
-  - Algèbre linéaire
-  - Organisation informatique
-  - Analyse des algorithmes
-  - Nouveaux horizons : Jeunes et identités dans les mondes francophones d'Afrique subsaharienne et des Caraïbe
+  - Génie logiciel
+  - Théorie de la computation
+  - Principes des langages de programmation
+  - Introduction à l'apprentissage automatique
 - 📫 Contact : Veuillez m'envoyer un e-mail !
   - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
 
