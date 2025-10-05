@@ -10,7 +10,7 @@ My name is Jackson, and I study computer science and French at Lafayette College
 - 🌱 I’m studying (Fall 2025):
   - Multiagent Systems
   - Quantitative Biology
-  - French Women Writers
+  - The Epistolatory Novel in France
   - Imperial Russia
 - 📫 Contact: Please shoot me an email, or check out my [website](https://jacksoneshbaugh.github.io)!
   - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
@@ -25,7 +25,7 @@ Je m'appelle Jackson, et je suis étudiant d'informatique et du français à Laf
 - 🌱 Je suis en train de apprendre (automne 2025) : 
   - Systèmes multi-agents
   - Biologie quantitative
-  - Femmes écrivaines françaises
+  - Le roman épistolaire en France
   - Russie impériale
 - 📫 Contact : Veuillez m'envoyer un e-mail ou voir ma [site web](https://jacksoneshbaugh.github.io) !
   - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
