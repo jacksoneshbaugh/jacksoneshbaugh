@@ -1,52 +1,75 @@
-### Hello!
+# Hello!
 
-My name is Jackson, and I study computer science and French at Lafayette College, focusing on how artificial systems understand language—and how we can make those systems more transparent, inclusive, and useful across disciplines. Apart from my studies and other projects, you can find me hanging out with my friends; playing piano, trombone, or singing jazz; or binging Seinfeld.
+My name is Jackson, and I study Computer Science and French at Lafayette College. My research sits at the intersection of machine learning, language, and scientific inquiry. Broadly, I am interested in how we can build learning systems that are not only effective, but also interpretable, reliable, and capable of generating meaningful scientific insight.
 
-- 🔭 I’m currently working on: recommending energy retrofits at the neighborhood level, specifically on synthetic options for home data required to train models in this vien (see my [research page](https://jacksoneshbaugh.github.io/research)).
-- 🔍 My research interests include:
+Outside of research, you can usually find me spending time with friends, playing piano or trombone, singing jazz, volunteering in church media ministry, or rewatching *Seinfeld*.
+
+- 🔭 **Current projects**
+  - Model interpretability and evaluation
+  - Weak supervision and label construction without ground truth
+  - Computational linguistics, with a focus on idiomatic language
+  - Generative AI workflows for building energy simulation and urban-scale energy analysis
+
+- 🔍 **Research interests**
   - Computational Linguistics
-    - Currently, I am focused on idiomatic language in French.
-  - Model Interpretability
+    - Idiomatic language, meaning, and language understanding
+  - Interpretable & Explainable Machine Learning
+  - Weak Supervision and Learning from Imperfect Labels
   - Applied Machine Learning
-- 🌱 I’m studying (Spring 2026):
-  - Computers & Society
-  - Operating Systems
-  - "Toward a Grammar for French Idioms" (French Department Independant Study under Dr. Maria Hernandez)
-- 📫 Contact: Please shoot me an email, or check out my [website](https://jacksoneshbaugh.github.io)!
-  - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
+  - AI for Scientific Discovery
+
+- 🎓 **Education**
+  - B.S. Computer Science, Lafayette College
+  - B.A. French, Lafayette College
+  - Minors in Mathematics and Biology
+
+- 🌱 **Currently exploring**
+  - Interpretability metrics and model evaluation
+  - Psychometrics and latent variable modeling
+  - Multi-modal learning and supervision
+  - Computational approaches to meaning
+
+- 📫 **Contact**
+  - Website: https://jacksoneshbaugh.github.io
+  - Email: eshbaugj@lafayette.edu
 
 ![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksoneshbaugh&show_icons=true&theme=dracula)
 
-### Salut !
+---
 
-Je m'appelle Jackson, et j'étudie l'informatique et le français au Lafayette College, en me concentrant sur la façon dont les systèmes artificiels comprennent le langage — et comment nous pouvons rendre ces systèmes plus transparents, inclusifs et utiles à travers les disciplines. En dehors de mes études et autres projets, vous pouvez me trouver en train de traîner avec mes amis ; jouant du piano, du trombone ou chantant du jazz ; ou de regarder Seinfeld en boucle. 
+# Salut !
 
-- 🔭 Je travaille actuellement sur : la recommandation de réaménagements énergétiques au niveau du quartier, en particulier sur des options synthétiques pour les données domestiques nécessaires à l'entraînement des modèles dans cette vieine (voir ma [page de recherche](https://jacksoneshbaugh.github.io/research)).
-- 🔍 Mes intérêts de recherche incluent :
+Je m'appelle Jackson et j'étudie l'informatique et le français au Lafayette College. Mes recherches se situent à l'intersection de l'apprentissage automatique, du langage et de la démarche scientifique. Je m'intéresse en particulier à la manière dont nous pouvons construire des systèmes d'apprentissage qui soient non seulement performants, mais aussi interprétables, fiables et capables de produire des connaissances scientifiques utiles.
+
+En dehors de la recherche, j'aime passer du temps avec mes amis, jouer du piano et du trombone, chanter du jazz, participer au ministère audiovisuel de mon église et regarder *Seinfeld*.
+
+- 🔭 **Projets actuels**
+  - Interprétabilité et évaluation des modèles
+  - Supervision faible et construction d'étiquettes sans vérité terrain
+  - Linguistique computationnelle, avec un intérêt particulier pour les expressions idiomatiques
+  - Utilisation de l'IA générative pour la simulation énergétique des bâtiments et l'analyse énergétique urbaine
+
+- 🔍 **Domaines d'intérêt**
   - Linguistique computationnelle
-    - Actuellement, je me concentre sur le langage idiomatique en français.
-  - Interprétabilité du modèle
+    - Expressions idiomatiques et compréhension du langage
+  - IA explicable et interprétable
+  - Supervision faible
   - Apprentissage automatique appliqué
-- 🌱 J'étudie (printemps 2026) :
-  - Informatique & Société
-  - Systèmes d'exploitation
-  - « Vers une grammaire pour les idiomes français » (Étude indépendante du département de français sous la direction du Dr Maria Hernandez)
-- 📫 Contact : Veuillez m'envoyer un e-mail, ou consulter mon [site web](https://jacksoneshbaugh.github.io)!
-  - [eshbaugj@lafayette.edu](mailto:eshbaugj@lafayette.edu)
+  - IA pour la découverte scientifique
+
+- 🎓 **Formation**
+  - Licence (B.S.) en informatique
+  - Licence (B.A.) en français
+  - Mineures en mathématiques et en biologie
+
+- 🌱 **J'étudie actuellement**
+  - Les métriques d'interprétabilité
+  - La psychométrie et les variables latentes
+  - L'apprentissage multimodal
+  - Les approches computationnelles du sens
+
+- 📫 **Contact**
+  - Site web : https://jacksoneshbaugh.github.io
+  - Courriel : eshbaugj@lafayette.edu
 
 ![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksoneshbaugh&show_icons=true&theme=dracula&locale=fr)
-
-<!--
-**jacksoneshbaugh/jacksoneshbaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
